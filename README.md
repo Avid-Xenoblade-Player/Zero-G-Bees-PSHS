@@ -1,4 +1,4 @@
-# SPAAAAAAAAACE@PSHS - 5th Kibo Robot Programming Competition
+# Zero-G-Bees@PSHS - 5th Kibo Robot Programming Competition
 
 ---
 
@@ -11,3 +11,5 @@ this is your local year 12 speaking
 for now though, this branch of the repo is empty (i hope you know what that means). you'll have to switch over to the other branch to find all the demo stuff from last year's competition guidelines and resources
 
 lol :)
+
+and from your non-local non-year-12, i hereby claim the title of first committer
